@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/fikuna/leetcode-solutions/tree/master/0058-length-of-last-word) |
+## Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/fikuna/leetcode-solutions/tree/master/2384-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/fikuna/leetcode-solutions/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
