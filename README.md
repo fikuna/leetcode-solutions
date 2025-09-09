@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/fikuna/leetcode-solutions/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/fikuna/leetcode-solutions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
