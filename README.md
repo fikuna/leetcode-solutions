@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/fikuna/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/fikuna/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/fikuna/leetcode-solutions/tree/master/2383-add-two-integers) |
 ## Binary Search
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/fikuna/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/fikuna/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Tree
 |  |
 | ------- |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/fikuna/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/fikuna/leetcode-solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
