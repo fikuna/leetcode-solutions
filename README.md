@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/fikuna/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/fikuna/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/fikuna/leetcode-solutions/tree/master/0415-add-strings) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/fikuna/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2383-add-two-integers](https://github.com/fikuna/leetcode-solutions/tree/master/2383-add-two-integers) |
 ## Binary Search
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/fikuna/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/fikuna/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/fikuna/leetcode-solutions/tree/master/0415-add-strings) |
 ## Tree
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/fikuna/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/fikuna/leetcode-solutions/tree/master/0415-add-strings) |
 ## Matrix
 |  |
 | ------- |
